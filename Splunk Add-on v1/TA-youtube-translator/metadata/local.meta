@@ -1,0 +1,38 @@
+[props/youtube-translator-service]
+owner = eholmi
+version = 8.0.0
+modtime = 1581250827.085276000
+
+[props/source%3A%3A...ta-youtube-translator%2A.log%2A]
+owner = eholmi
+version = 8.0.0
+modtime = 1581250827.429456000
+
+[props/source%3A%3A...ta_youtube_translator%2A.log%2A]
+owner = eholmi
+version = 8.0.0
+modtime = 1581250827.703634000
+
+[inputs/youtube_translator_service%3A%2F%2Fyoutube_news]
+owner = eholmi
+version = 8.0.0
+modtime = 1581252644.280007000
+
+[inputs/youtube_translator_service%3A%2F%2Fyoutube_news_fox]
+owner = eholmi
+version = 8.0.0
+modtime = 1581252847.171236000
+
+[inputs/youtube_translator_service%3A%2F%2Fyoutube_news_comic]
+owner = eholmi
+version = 8.0.0
+modtime = 1581252833.318240000
+
+[ta_youtube_translator_settings/logging]
+version = 8.0.0
+modtime = 1581253960.623556000
+
+[inputs/youtube_translator_service%3A%2F%2Fyoutube_example]
+owner = eholmi
+version = 8.0.0
+modtime = 1581257723.643362000
