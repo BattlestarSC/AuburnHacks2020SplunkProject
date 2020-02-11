@@ -25,4 +25,10 @@ Formatting and API formatting are king.
 My heart needs less caffeine.
 
 ## What's next for Live News Sentiment Analysis and Public Opinion Measure
-A working demo for a company looking to judge public opinion, to build my skills. 
+A working demo for a company looking to judge public opinion, to build my skills.
+
+## Current issues.
+Python issues with the docker API are documented in that .py file. 
+Splunk addon issues: 
+-> Due to time, no validation or scheme was made, however this has worked in the past, so I'm assuming its gonna be ok. 
+-> The json string returned by the API is being interpreted as a string and no parsed as json. I didn't manage to figure out why before the competition ended. 
